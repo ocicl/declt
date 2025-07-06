@@ -1,0 +1,9 @@
+* declt
+
+Reference manual generator for Common Lisp libraries
+
+|---------+------------------------------------------------------------------------------|
+| source  | git:https://github.com/didierverna/declt.git                                 |
+| commit  | 3c47ad2                                                                      |
+| systems | net.didierverna.declt net.didierverna.declt.core net.didierverna.declt.setup |
+|---------+------------------------------------------------------------------------------|
