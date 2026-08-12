@@ -7,4 +7,4 @@ Reference manual generator for Common Lisp libraries
 | commit  | 3c47ad2                                                                      |
 | systems | net.didierverna.declt net.didierverna.declt.core net.didierverna.declt.setup |
 |---------+------------------------------------------------------------------------------|
-  
+   
